@@ -1,0 +1,10 @@
+C:\Users\asibo\Desktop\A simple Calculator\A simple Calculator\bin\Debug\A simple Calculator.exe.config
+C:\Users\asibo\Desktop\A simple Calculator\A simple Calculator\bin\Debug\A simple Calculator.exe
+C:\Users\asibo\Desktop\A simple Calculator\A simple Calculator\bin\Debug\A simple Calculator.pdb
+C:\Users\asibo\Desktop\A simple Calculator\A simple Calculator\obj\Debug\A simple Calculator.csproj.AssemblyReference.cache
+C:\Users\asibo\Desktop\A simple Calculator\A simple Calculator\obj\Debug\A_simple_Calculator.Form1.resources
+C:\Users\asibo\Desktop\A simple Calculator\A simple Calculator\obj\Debug\A_simple_Calculator.Properties.Resources.resources
+C:\Users\asibo\Desktop\A simple Calculator\A simple Calculator\obj\Debug\A simple Calculator.csproj.GenerateResource.cache
+C:\Users\asibo\Desktop\A simple Calculator\A simple Calculator\obj\Debug\A simple Calculator.csproj.CoreCompileInputs.cache
+C:\Users\asibo\Desktop\A simple Calculator\A simple Calculator\obj\Debug\A simple Calculator.exe
+C:\Users\asibo\Desktop\A simple Calculator\A simple Calculator\obj\Debug\A simple Calculator.pdb
